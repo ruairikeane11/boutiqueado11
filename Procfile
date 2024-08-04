@@ -1,0 +1,1 @@
+web: guncorn boutique_ado.wsgi:application
