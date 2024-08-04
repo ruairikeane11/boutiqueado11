@@ -28,7 +28,9 @@ SECRET_KEY = 'django-insecure-bp!3qr$t!tyzngh(m8r!*6iv(wacv#f#m(*k(2dx+vy(0e+)p2
 DEBUG = True
 
 ALLOWED_HOSTS = ['8000-ruairikeane-boutiqueado-brhb176188o.ws.codeinstitute-ide.net',
-'ruairikane11-boutiqueadoheroku.herokuapp.com', 'localhost']
+'ruairikane11-boutiqueado11.herokuapp.com', 'localhost',
+'boutiqueadoheroku-941943f385c5.herokuapp.com',
+]
 
 
 # Application definition
